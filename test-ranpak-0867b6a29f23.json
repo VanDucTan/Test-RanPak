@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "test-ranpak",
+  "private_key_id": "0867b6a29f2320fbb9775a0a9de8b7d6278b8762",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDsiMelTiRC3hre\n05KtlTuPIKL0Bo9wANRwdmNWSXZDrknR318ztCsmStkU5KDXyqU7dfSeKts5eof9\na3Pf5vV3KWpls6/dog71zr+SCa+19lTFiYKrbthtxR0S6mHuWLcALlW5EKdMXLZG\n5ByYfPNdMn7dv5VaiOtMZM1Ke0TnC+KdRUrs9hiznBPOx3zXtySBamryXQPBeQdC\nwjL4xurtoWLWRVLwWPK9vQxyLfnBjdyfY1Xd9ZqwxBVHgAqaFHAHtIM5xhYs4rOA\nHlM5k3a5DLHZjYwGdwtFcVfrIPGa7S2OtJ4QJc7x3um+NzOYdPLH3vBSmqZot97A\n15e/Kn5fAgMBAAECggEABF+rxWWSVmmHTgB+hqwq65obDpptHjvoXGNWseVDhREy\nIenYolBIuKQLVeS7s/x2HV6F1UON8Ib7VcHIujv/Ok1Z6iMuSNGy0h5uZ2kQxojA\nB4kOkVSdjDtoBA4Gco2nEJ9KttR/1hx5bbUmcYwPRKARktB0lrXPwrFdzxdEGRDo\n7RntVOtVJyDU99Y3zogyYdjBoIj3nvi5hphyh3S4c+NvK6la2Vib8dgs84UVjG1d\nS9hQfKXCc4jNsZRsqe3k56B4zm/hSMFWbWDu+m5hNlkF4p4S5IDmQ7lsDRYA/jhR\nwVHoTNKg+J8keByiG/paCDxDunowaO7sAO55llM4IQKBgQD7Up+UOhlZvbJ5ESUe\n2xJef+E9JyCSVRFqW22If1aprwyIon46nND7A/MD9hR0HM0ZqoW31mIagnPJtBBJ\nynQhRRuppcvRC/r8UQFsvJz5Ny+p3gflbFZ0dofGRK/NVIak81LKbTLJJRGfPbzZ\nkfimH5ftZdxc88wc6+Fif1yxvwKBgQDw77MtaySyVD0rM0LjDpBe6B8RAJeQhn3U\ndxeWmiEpNZeNCl4H8nhzJA7NkzlfBIC9oYoRc14Ilh/e6ZECQlKjSn4AAnUQtb2I\nWLAsBJ2PEDtFHBk09+VY4sQDjCo3InULcm+IWP3XBo4JoSo0t1hrhERX3d4amo8a\nIVVNRLQbYQKBgHkiZdAoALgEetVnsiChLsVllcbH6Sce4XoF/1FfLwIyYTQqPfU6\nSG/0g1lRbqJYj3LjgfgN2NM2NWDu7Trj3f17Nc4bH5Xu1FZxJOKoNnDYbJzPa7bk\n9PbFesPRr3qkVxGCRlFTOLtCpq++LhwgA1zutWezRPd4etUlzEiRYrg5AoGAN/6N\nNs4CzksTmDmmntxgox3xMmNf1h/bmIhA/Cg/8rLY0NeK+O/aHHBR3GcN205RmUC0\ntM+KGBbDu2uu3saJLBgA5oGrsUF7lfd+ogxEjd4o2Cvqk8vVCm5RPb3ShdPFPe7P\nivGbtOB6HDTPeUbvDrXDqGQQ3T/0aA89IuMHtKECgYBIwsFI9a1NBQUt2DP9yvGu\nREy02IvWVXNJ5zD4OxHFd+4pWM87/vhdYEHQETvQFt1mk8WO+ymfQ3NbvjFPvZQs\nECRjuA62/XjAJ4F9OTmOzMPZk091tZCWgi1TEPvduBwaxnakAJHB0ntSINGWmzt+\nPoELBmuaeboG/mPiDHYXPA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-ranpak@test-ranpak.iam.gserviceaccount.com",
+  "client_id": "105200041544085711246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-ranpak%40test-ranpak.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
